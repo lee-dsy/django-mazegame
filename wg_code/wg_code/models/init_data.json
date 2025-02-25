@@ -1,0 +1,21 @@
+[
+  {
+    "model": "wg_code.user",
+    "pk": 1,
+    "fields": {
+      "first_name": "",
+      "last_name": "",
+      "password": "",
+      "acc_create_date": "",
+      "last_login": ""
+    }
+  },
+  {
+    "model": "myapp.person",
+    "pk": 2,
+    "fields": {
+      "first_name": "Paul",
+      "last_name": "McCartney"
+    }
+  }
+]
