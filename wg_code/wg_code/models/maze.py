@@ -1,0 +1,1 @@
+# Stores the top level information about the maze
